@@ -1,0 +1,21 @@
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\Mp3 player.exe.config
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\Mp3 player.exe
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\Mp3 player.pdb
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.csproj.AssemblyReference.cache
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3_player.Form1.resources
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3_player.Properties.Resources.resources
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.csproj.GenerateResource.cache
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.csproj.CoreCompileInputs.cache
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.exe
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.pdb
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\ColorSlider.dll
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\WaveFormExample.exe
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\ColorSlider.pdb
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\WaveFormExample.pdb
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\WaveFormExample.xml
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.csproj.CopyComplete
+D:\Projects\Mp3 player\Mp3 player\obj\Debug\Mp3 player.exe.config
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\bass.dll
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\Bass.Net.dll
+D:\Projects\Mp3 player\Mp3 player\bin\Debug\Bass.Net.xml
